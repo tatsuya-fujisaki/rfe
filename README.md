@@ -1,6 +1,4 @@
 # rfe
 Feature engineering toolkit for Machine Learning projects.
 
-
-![alt text](https://docs.google.com/document/d/1A_lhfAomqRoPf06IArlHspvvBZa0yrW_oYu40M13NjU/edit#)
-https://lucid.app/documents/edit/61616c8a-07c1-4533-8757-560c21ea1699/0?callback=close&name=docs&callback_type=back&v=1346&s=612
+![Screen Shot 2021-10-18 at 12 57 55](https://user-images.githubusercontent.com/78530659/137667805-ad7a0193-90f8-47e8-a474-1099a3a8baca.png)
