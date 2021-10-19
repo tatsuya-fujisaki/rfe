@@ -2,7 +2,6 @@
 Feature engineering toolkit for Machine Learning projects.
 
 
-# Basic Machine Learning Workflow
 ![image4](https://user-images.githubusercontent.com/78530659/137844101-5bb5cc97-ac65-40ce-9f67-5b678256226e.png)
 
 
