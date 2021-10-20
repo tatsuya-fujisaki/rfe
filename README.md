@@ -9,7 +9,7 @@ Garbage In, Garbage Out
 <img src="https://user-images.githubusercontent.com/78530659/137846338-fe324a84-e37b-4563-8541-e9b23e15f031.png" width="800">
 
 # Feature selection
-<img src="https://user-images.githubusercontent.com/78530659/138012490-358b6dd6-59e3-491c-a6ba-8c162921e1e4.png" width="800" height="400">
+<img src="https://user-images.githubusercontent.com/78530659/138012490-358b6dd6-59e3-491c-a6ba-8c162921e1e4.png" width="600" height="400">
 
 
 
