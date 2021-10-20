@@ -1,7 +1,7 @@
 # rfe
 Feature engineering toolkit for Machine Learning projects.
 
-# Problem with Data
+# Handling problems with data
 Garbage In, Garbage Out
 ![image8](https://user-images.githubusercontent.com/78530659/137845348-d07e57f5-8cd3-4f47-9fbb-fde6291d8519.png)
 
