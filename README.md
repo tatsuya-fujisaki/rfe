@@ -13,24 +13,13 @@ Garbage In, Garbage Out
 
 
 
-### Belows are Demo of README
 
 
-# Features
 
-# Requirement
-
-
-# Installation
-
-
-# Usage
 
 
 # Author
 
 * Fuu
 * Li Houtei
-
-# License
 
